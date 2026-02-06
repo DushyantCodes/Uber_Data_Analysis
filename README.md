@@ -1,23 +1,37 @@
 # Uber_Data_Analysis
 # 🚕 Uber Data Analysis & Insights
 
-This repository contains a Jupyter Notebook (`Uber.ipynb`) focused on analyzing Uber ride data to extract meaningful insights using Python and data science libraries.
+This repository contains a Jupyter Notebook (`Uber.ipynb`) that analyzes Uber ride data to extract meaningful business insights using Python and data analysis techniques.
 
 ---
 
 ## 📌 Project Overview
 
-The objective of this project is to:
-- Explore Uber trip data
-- Perform data cleaning and preprocessing
-- Analyze ride patterns based on time and date
-- Visualize trends for better understanding of ride behavior
+In this project, we assume the role of a **Data Analyst at Uber**.  
+The objective is to analyze ride booking data and answer key business questions that help understand user behavior, demand patterns, and ride characteristics.
 
-This project demonstrates the practical application of **Exploratory Data Analysis (EDA)** using Python.
+The project focuses on **Exploratory Data Analysis (EDA)** and visualization.
+
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project are to answer the following questions:
+
+1. In which category do people book the most Uber rides?
+2. For which purpose do people book Uber rides the most?
+3. At what time do people book Uber cabs the most?
+4. In which months do people book Uber rides less frequently?
+5. On which days of the week do people book Uber rides the most?
+6. How many miles do people usually book a cab for through Uber?
+
+These insights help Uber optimize services, pricing, and availability.
 
 ---
 
 ## 📂 Repository Structure
+
+
 
 
 ---
